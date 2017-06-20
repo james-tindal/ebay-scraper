@@ -1,6 +1,5 @@
 from lxml import html
 import requests
-from collections import namedtuple
 from decimal import Decimal
 from math import inf as infinity
 from sys import argv
